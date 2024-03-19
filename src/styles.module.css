@@ -1,0 +1,23 @@
+.logedInwrapper{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100%
+}
+.signOutButton{
+    margin-top: 50px;
+}
+.text{
+    margin-top: 50px;
+    width: 50%;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    hyphens: manual;
+    hyphens: auto;
+    line-break: loose;
+    line-break: strict;
+    line-break: anywhere;
+    text-wrap: balance;
+}
